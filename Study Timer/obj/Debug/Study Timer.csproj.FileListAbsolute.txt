@@ -1,0 +1,15 @@
+C:\Users\jaden\Desktop\Programs\Study Timer\bin\Debug\Study Timer.exe.config
+C:\Users\jaden\Desktop\Programs\Study Timer\bin\Debug\Study Timer.exe
+C:\Users\jaden\Desktop\Programs\Study Timer\bin\Debug\Study Timer.pdb
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.csprojResolveAssemblyReference.cache
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study_Timer.frmStdyTmr.resources
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study_Timer.Properties.Resources.resources
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.csproj.GenerateResource.cache
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.csproj.CoreCompileInputs.cache
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.exe
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.pdb
+C:\Users\jaden\Desktop\Programs\Study Timer\bin\Debug\Study Timer.exe.manifest
+C:\Users\jaden\Desktop\Programs\Study Timer\bin\Debug\Study Timer.application
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.TrustInfo.xml
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.exe.manifest
+C:\Users\jaden\Desktop\Programs\Study Timer\obj\Debug\Study Timer.application
